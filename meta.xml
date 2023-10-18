@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>RevoKart Dumper</name>
+	<coder>kazuki_4ys</coder>
+	<version>v0.1</version>
+	<release_date>20231018000000</release_date>
+	<short_description>Dump "auto-add library" for MarioKartWii</short_description>
+	<long_description>This application dumps the "auto-add library" needed for wbz/wlz/wu8 decoding and encoding directly from the Mario Kart Wii disc. Based on Reggie! Dumper by AerialX and megazig. The dumped files are stored in sd:/rk_dumper/auto-add and sd:/rk_dumper/auto-add.arc as an archive.</long_description>
+</app>
